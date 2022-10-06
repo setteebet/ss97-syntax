@@ -1,0 +1,18 @@
+{
+  "name": "ss97-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "ruaydeeรวยดี✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"ruaydeeรวยดี",
+"หวยออนไลน์",
+"เข้าระบบ lottovip",
+"เว็บหวยออนไลน์ถูกกฎหมาย",
+"huaysod"
+],
+  "repository": "https://github.com/setteebet/ss97-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
